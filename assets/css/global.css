@@ -16,3 +16,8 @@
   font-family: "Roboto", sans-serif;
   background-color: var(--white);
 }
+
+body {
+  max-width: 2000px;
+  margin: 0 auto;
+}
